@@ -1,4 +1,4 @@
-# zrapsJASS
+# zrapsJASS - A Music Sequencer for Unity.
  ## Know more : https://www.youtube.com/watch?v=ZGXPg-oRVbU
 
 
